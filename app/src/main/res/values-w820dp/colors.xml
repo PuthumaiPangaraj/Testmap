@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Folks -->
+      <color name="colorPrimary">#922653</color>
+    <color name="colorPrimaryDark">#880E4F</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+    <color name ="axiscolor">#922653</color>
+    <color name="axisshowbg">#E9BFC0</color>
+    <color name="app_color">#922653</color>
+
+    <color name="black">#000000</color>
+    <color name="blackopacity">#99000000</color>
+    <color name="white">#ffffff</color>
+    <color name="orderhistorybg">#DEF5E4</color>
+    <color name="grey">#9f9f9f</color>
+    <color name="violet">#DDE1F5</color>
+    <color name="pay_grey">#E7E6E6</color>
+    <color name="checkout_top">#F1F0E7</color>
+    <color name="darkgrey">#6E6E6E</color>
+    <color name="light_grey">#eeeeee</color>
+    <color name="red">#CC0000</color>
+    <color name="login_edittext_textcolorhint">#aaaaaa</color>
+    <color name="actionbar">#fe6700</color>
+    <color name="actionbar_pressed">#f16200</color>
+    <color name="plain_line">#b9b9b9</color>
+    <color name="darkblueblack">#1F2A34</color>
+    <color name="yellow">#FFFF66</color>
+    <color name="vaangoyellow">#F5FC00</color>
+    <color name="vhomeyellow">#FFF01B</color>
+    <color name="vaangogreen">#61C73D</color>
+    <color name="drawermenu">#FCFBE5</color>
+    <color name="itemname">#0B3861</color>
+    <color name="vaangoitemmenu_green">#bcdc27</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="primary_color">#922653</color>
+    <color name="primary_color_dark">#922653</color>
+    <color name="primary_text_color_dark">#FF9D9E9E</color>
+
+
+    <!-- materail desing for tablayout -->
+    <color name="window_background">#CC000000</color>
+
+
+    <color name="my_primary">#ED1C24</color>
+    <color name="my_primary_dark">#CC0000</color>
+    <color name="my_primary_light">#B3E5FC</color>
+    <color name="my_accent">#FF5722</color>
+    <color name="my_primary_text">#ffffff</color>
+    <color name="my_secondary_text">#ffffff</color>
+    <color name="my_icons">#FFFFFF</color>
+    <color name="my_divider">#B6B6B6</color>
+
+    <!-- Video -->
+    <color name="text_color_video_add">#902853</color>
+
+</resources>
